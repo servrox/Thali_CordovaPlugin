@@ -19,7 +19,7 @@
     "request": "2.64.0",
     "salti": "https://github.com/thaliproject/salti.git#master",
     "urlsafe-base64": "1.0.0",
-    "uuid": "2.0.2",
+    "uuid": "11.1.1",
     "winston": "2.2.0"
   },
   "devDependencies": {
